@@ -1,13 +1,9 @@
 "use strict";
 
-var _interopRequireDefault = require("@babel/runtime/helpers/interopRequireDefault");
-
 Object.defineProperty(exports, "__esModule", {
   value: true
 });
 exports.default = void 0;
-
 var _text2RE = _interopRequireDefault(require("./text2RE"));
-
-var _default = _text2RE.default;
-exports.default = _default;
+function _interopRequireDefault(e) { return e && e.__esModule ? e : { default: e }; }
+var _default = exports.default = _text2RE.default;
