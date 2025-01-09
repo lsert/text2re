@@ -18,7 +18,7 @@
     "react",
     "element"
   ],
-  "author": "lvjiawen",
+  "author": "lsert",
   "license": "ISC",
   "dependencies": {
     "react": "*"
