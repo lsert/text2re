@@ -20,8 +20,9 @@
   ],
   "author": "lsert",
   "license": "ISC",
-  "dependencies": {
-    "react": "*"
+  "dependencies": {},
+  "peerDependencies": {
+    "react": "^17.0.0 || ^18.0.0"
   },
   "devDependencies": {
     "@types/react": "*"
